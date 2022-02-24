@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap");
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
 /* COMMON */
 body {
   color: #333;
@@ -403,7 +407,6 @@ footer .info span {
 footer .info span:last-child {
   margin-right: 0;
 } 
-
 
 footer .copyright {
   color: #999;
